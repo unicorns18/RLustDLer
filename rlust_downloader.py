@@ -62,4 +62,4 @@ class RLustDownloader:
 
 if __name__ == "__main__":
     downloader = RLustDownloader()
-    downloader.download("https://rl.eros.icu/gen/video.mp4")
+    downloader.download("https://rl.eros.icu/gen/step_sister_takes_advantage_of_step_bro.mp4")

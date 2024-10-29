@@ -63,7 +63,7 @@ class VideoCrawler:
 
 if __name__ == "__main__":
     with VideoCrawler() as crawler:
-        video_info = crawler.get_video_info(url)
+        video_info = crawler.get_video_info("https://rapelust.com/video/step-sister-takes-advantage-of-step-bro/")
         if video_info:
             print(f"Video URL: {video_info.video_url}, Video Type: {video_info.video_type}, Splash image: {video_info.splash_image}")
         else:
